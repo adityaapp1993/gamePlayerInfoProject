@@ -23,3 +23,10 @@ GamePlayerInfoManagement.java is the starting point for the project, and will re
 -The top 5 players higher than the average points per game is recorded.
 -The top 5 players in points for each game per week is recorded (to-do).
 -The top 5 players in points for each game per 2 weeks is recorded (to-do).
+
+4) Test cases are performed for the game.
+-Checking and verifying certain data of top 5 players for each game.
+-Checking and verifying certain data of bottom 5 players for each game.
+-Checking and verifying certain data of top 5 players higher than average for each game.
+-Checking and verifying certain data of top 5 players per week for each game (to-do).
+-Checking and verifying certain data of top 5 players per 2 weeks for each game (to-do).
